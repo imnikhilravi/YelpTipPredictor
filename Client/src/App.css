@@ -1,0 +1,164 @@
+h1 {
+    text-align: center;
+}
+
+#search {
+    left: 200px;
+    margin: 80px;
+    border: 5px red; 
+}
+
+a{
+    color: #f67e88 !important;
+}
+
+input[type=text] {
+    border: 2px solid black;
+    border-radius: 4px;
+}
+
+ul.listofcomments {
+    list-style-type: circle;
+    display: inline;
+    background: #3399ff;
+    padding: 20px;
+    
+}
+
+
+#searchbutton { 
+    -webkit-box-align: center;
+    width: 9rem !important;
+    align-self: center;
+    text-align: center;
+    display: inline-block;
+    text-align: center !important;
+    border-radius: 12px !important;
+    margin-left: 41%;
+    margin-right: 33%;
+    background-color: #da3d00;
+    color: white;
+    font-size: 17px;
+    padding: 4px 5px;
+    border: 2px solid #da3d00;
+}
+
+#tracklist {
+    left: 100px !important;
+    display:inline-block;
+    width:100%;
+}
+
+li{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    grid-gap: 20px;
+    width: 90%;
+    max-width: 1240px;
+    margin: 0 auto;
+}
+
+
+#search{
+    display: grid;
+    left: 200px !important;
+    text-align: center;
+}
+
+body{
+    background-image: url("background7.jpg");
+}
+
+label{
+    color: #da3d00;
+    size: 10px;
+    font-size: 18px;
+    
+}
+
+#highlightsList{
+    float: left;
+    margin-top: 5%;
+    width: 45%;
+}
+
+#commentContainer{
+    margin-top: 3%;
+    float: right;
+    width: 45%;
+
+}
+
+#commentsbutton {
+    -webkit-box-align: center;
+    width: 10rem !important;
+    padding: 5px 6px;
+    align-self: center;
+    text-align: center;
+    display: inline-block;
+    text-align: center !important;
+    border-radius: 14px !important;
+    background-color: #da3d00;
+    color: white;
+    border: 2px solid #da3d00;
+    margin-left: 40%;
+    margin-right: 33%;
+    font-size: 17px;
+}
+
+#searchForm{
+    margin-top: 0% !important;
+    width: 600px; 
+    margin-left: 10%;
+    margin-right: 20%;
+    top: 10% !important;
+    position: absolute;
+}
+
+li{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    grid-gap: 20px;
+    width: 90%;
+    max-width: 1240px;
+    margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+
+footer{
+	padding: 7px 7px;
+	position: fixed;
+    width: 160px !important;
+    font-size: 15px;
+	right: 0;
+	bottom: 0;
+	left: 87%;
+    background-color: #da3d00 !important;
+    color: white;
+	text-align: center;
+}
+
+#loading {
+    position: absolute;
+    top: 40%;
+    left: 44%;
+    color: #da3d00;
+    font-size: 2rem;
+}
+
+#commentdate {
+    margin-left: 60%;
+}
+
+
+#badcontainer {
+    position: relative;
+    margin-top: 60%;
+}
+
+#items {
+    overflow: hidden;
+}

@@ -1,0 +1,4 @@
+node_modules/
+data_science/__pycache__
+data_science/data
+.DS_Store
