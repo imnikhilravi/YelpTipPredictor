@@ -1,5 +1,5 @@
 # YelpTipPredictor
-Find out the 3 best and 3 worst things about a restaurant on Yelp
+Find the top 3 best and worst things about a restaurant on Yelp
 
 Tired of going through 100's of reviews for every restarant on yelp? 
 
