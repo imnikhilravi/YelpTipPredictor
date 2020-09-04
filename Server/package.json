@@ -12,7 +12,7 @@
     "bluebird": "^3.5.1",
     "cors": "^2.8.4",
     "express": "^4.16.3",
-    "mongodb": "^3.0.7",
+    "mongodb": "^3.1.13",
     "node-redis-pubsub": "^2.0.0",
     "redis": "^2.8.0",
     "uuid": "^3.2.1"
